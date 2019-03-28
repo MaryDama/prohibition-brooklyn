@@ -1,7 +1,7 @@
 # Prohibition and Brooklyn
 King’s County Distillery, established in 2010, claims to be the “oldest whiskey distillery in Brooklyn” because of how lasting the effects of prohibition were on production. We’re interested in seeing in what neighborhoods these effects were felt, and how those areas changed as a result.
 
-As our primary data source we plan to use the Brooklyn Public Library collection of digitized Brooklyn city and business directories for the period 1856-1967, which allows for full-text searching within each volume. By webscraping our search results, then importing the resultant CSV of data into the Google My Maps tool, we intend to map the distilleries and breweries in Brooklyn over time, showing what the areas of production were prior to prohibition and what was there after. 
+As our primary data source we plan to use the Brooklyn Public Library collection of digitized Brooklyn city and business directories for the period 1856-1967, which allows for full-text searching within each volume. By using python to read the directories and write the relevant lines to CSV, then importing the resultant CSV of data into the Google My Maps tool, we intend to map the distilleries and breweries in Brooklyn over time, showing what the areas of production were prior to prohibition and what was there after. 
 
  
 
