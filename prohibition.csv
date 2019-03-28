@@ -1,0 +1,394 @@
+l i n e _ I D      1 8 6 6 A b t      L o u i s      b r e w e r      3 8 0 *      P u l a s k i       
+ 
+l i n e _ I D      4 9 3 4 “      P e t e r      b r e w e r      h      4 9 6      H a r t       
+ 
+l i n e _ I D      1 0 0 1 1 4 4      G e o      H      d i s t i l l e r      1 4      W a t e r      M h t n      h      7 1       
+ 
+l i n e _ I D      1 0 9 4 2 A s c h      G e o      b r e w e r      h      9 7 0      P a c i f i c       
+ 
+l i n e _ I D      1 6 5 2 7 B a r d e n s      A u g u s t      b r e w e r      h      2 5 4      H i m r o d       
+ 
+l i n e _ I D      1 8 9 3 4 B a t c h e      W m      b r e w e r      h      2 2 7 9      P i t k i n      a v       
+ 
+l i n e _ I D      2 1 6 6 1 4 4      C h a s      b r e w e r      h      1 1 9 0      G r e e n e      a v       
+ 
+l i n e _ I D      2 1 7 1 2 4 4      F r e d ’ k      b r e w e r      h      1 4 5 3      D e K a l b      a v       
+ 
+l i n e _ I D      2 1 7 1 3 4 4      F r e d ’ k      b r e w e r      h      8 8 4      F r a n k l i n      a v       
+ 
+l i n e _ I D      2 1 8 9 2 “      J o h n      b r e w e r      k      3 2      E      2 d       
+ 
+l i n e _ I D      2 1 9 0 7 “      J o h n      F      b r e w e r      3 1      B e l v l d e r e      h      2 5      B e l -       
+ 
+l i n e _ I D      2 4 6 5 1 B r o s      b r e w e r s      1 1 1 7      W a s h ’ n      a v       
+ 
+l i n e _ I D      2 5 9 2 7 R e r a n      F r a n k      b r e w e r      h      7 6 3      F r a n k l i n      a v       
+ 
+l i n e _ I D      2 6 0 5 0 “      P e t e r      b r e w e r      h      1 1 2 1      3 7 t h       
+ 
+l i n e _ I D      2 6 4 5 0 4 4      J o h n      A      b r e w e r      h      1 3 1      V e r n o n      a v       
+ 
+l i n e _ I D      2 8 3 5 5 4 4      E m i l      b r e w e r      h      9 2      C e d a r      p i       
+ 
+l i n e _ I D      3 0 6 5 4 4 4      H ’ y      d i s t i l l e r      1 7 7      S t a g g      h      6 6 8      W i l ’ b y      a v       
+ 
+l i n e _ I D      3 2 9 8 1 4 4      J o h n      b r e w e r      h      6 2 7      H a n c o c k       
+ 
+l i n e _ I D      3 3 4 8 5 4 4      S a m ’ l      d i s t i l l e r y      1 9 8      K n i c k ’ r      a v       
+ 
+l i n e _ I D      4 4 2 4 3 “      H e b r e w      O r p h a n      A s y l u m      3 7 3      R a l p h      a v       
+ 
+l i n e _ I D      4 7 5 3 6 B r u c h m a n n      A n t o n      b r e w e r      S t a t e n      I s l a n d      h       
+ 
+l i n e _ I D      5 0 7 7 9 B u r g h      L o u i s      b r e w e r      h      1 8 2      M e l r o s e       
+ 
+l i n e _ I D      5 0 9 0 7 B u r h e n n e      E m i l      d i s t i l l e r      3 4 9      H a m b u r g      a v       
+ 
+l i n e _ I D      5 0 9 1 0 “      &      D o h n      d i s t i l l e r s      3 4 9      H a m b u r g      a v       
+ 
+l i n e _ I D      7 5 3 2 1 C o s t a      E s t a v a n      b r e w e r      h      1 8 5      R u t l e d g e       
+ 
+l i n e _ I D      8 3 7 7 7 D a u b      A l b e r t      b r e w e r      h      2 6 7      C l a r k s o n      a v       
+ 
+l i n e _ I D      8 8 9 8 2 C h a s      H o w a r d      b r e w e r      2 4 1      W y t h e      a v      b       
+ 
+l i n e _ I D      8 8 9 8 6 4 4      G r i s w o l d      b r e w e r      2 4 1      W y t h e      a v      h      4 9 0       
+ 
+l i n e _ I D      8 9 8 8 6 D e r v a      L e o p o l d      b r e w e r      h      1 4 1      E l d e r t       
+ 
+l i n e _ I D      9 1 8 5 3 D i e m e r      A u g u s t      b r e w e r      h      E a s t      P ’ k w a y      n       
+ 
+l i n e _ I D      9 2 0 7 9 4 4      J u l i u s      b r e w e r      b      7 1      S t o c k h o l m       
+ 
+l i n e _ I D      9 4 1 3 1 4 4      H ’ y      b r e w e r      1 3 0 6      G r e e u e      a v      h      9 9 9       
+ 
+l i n e _ I D      1 0 2 6 4 8 D u s b      G e o      b r e w e r      h      1 7 3 4      D e K a l b      a v       
+ 
+l i n e _ I D      1 0 5 2 0 2 “      H ’ y      b r e w e r      b      0 3 1      D e K a l b      a y       
+ 
+l i n e _ I D      1 0 8 6 9 2 4 4      L o u i s      b r e w e r      h      9 9 4      D e K a l b      a v       
+ 
+l i n e _ I D      1 0 8 7 0 4 E n e r s o n      E i n e r      b r e w e r      h      1 6 7 9      D e a n       
+ 
+l i n e _ I D      1 0 8 7 1 7 4 4      A n d ’ w      b r e w e r      h      1 6 6      N o s t r a n d      a v       
+ 
+l i n e _ I D      1 0 9 1 0 2 E n g e l t e r      C h a s      b r e w e r      h      4 6 4      S t      M a r k ’ s      a v       
+ 
+l i n e _ I D      1 0 9 1 7 0 4 4      C h a s      b r e w e r      h      2 8 7      M a u j e r       
+ 
+l i n e _ I D      1 0 9 6 4 5 “      H ’ y      b r e w e r      1 9 3      M e l r o s e      h      6 8 5      B ’ w i c k       
+ 
+l i n e _ I D      1 0 9 8 0 9 “      J o h n      A      b r e w e r      1 9 3      M e l r o s e      h      3 1      S u y -      !       
+ 
+l i n e _ I D      1 0 9 8 2 0 “      T h e o      C      b r e w e r      C e n t ’ l      a y      c      L i n d e n      h      2 8       
+ 
+l i n e _ I D      1 1 1 5 0 5 E y r i n g      G u s t a f      b r e w e r      h      3 1 9      M a u j e r       
+ 
+l i n e _ I D      1 1 1 6 4 8 4 4      J o h n      b r e w e r      h      1 2 5 7      G r e e n e      a v       
+ 
+l i n e _ I D      1 1 2 3 0 4 F a l l e r t      B e r t k o l d      b r e w e r      3 4 6      L o r i m e r      h      4 0 8       
+ 
+l i n e _ I D      1 1 2 3 0 7 4 4      C h a s      b r e w e r      3 4 6      L o r i m e r      h      7 3 8      W i l ’ b y       
+ 
+l i n e _ I D      1 1 2 3 1 2 “      J o s      b r e w e r      3 4 6      L o r i m e r      h      7 3 8      W i l ’ b y       
+ 
+l i n e _ I D      1 1 8 7 5 5 4 4      R i c h ’ d      b r e w e r      h      5 2 5      B ’ w i c k      a v       
+ 
+l i n e _ I D      1 1 9 8 6 5 F l a c h s e n h e e r      J a c o b      b r e w e r      h      3 3 9      G r o v e       
+ 
+l i n e _ I D      1 2 0 5 8 3 4 4      J o h n      F      b r e w e r      : h      1 0 4      F r a n k l i n      a v       
+ 
+l i n e _ I D      1 2 0 9 8 3 F l i e r l      C o n r a d      b r e w e r      h      3 0 7      S t o c k h o l m       
+ 
+l i n e _ I D      1 2 5 3 8 7 4 4      W m      H      b r e w e r      R i d g e w o o d      L      I      h      2      S       
+ 
+l i n e _ I D      1 2 6 8 9 7 4 4      L o u i s      C      b r e w e r      2 3 7      M e s e r o l e      h      7 3 9       
+ 
+l i n e _ I D      1 3 3 2 8 3 G e b e r      B e r n a r d      b r e w e r      h      8 9 0      B e r g e n       
+ 
+l i n e _ I D      1 3 5 3 9 5 “      P h i l i p      b r e w m a s t e r      h      1 2 4 8      H a l s e y       
+ 
+l i n e _ I D      1 3 8 3 5 8 4 4      S e b a s t i a n      b r e w e r      h      1 2 8 9      G r e e n e      a v       
+ 
+l i n e _ I D      1 4 2 3 3 1 G o t t m a n      H ’ y      b r e w e r      h      4 6 3      S t      M a r k ’ s      a v       
+ 
+l i n e _ I D      1 4 3 9 1 1 “      G e o      F      b r e w e r      h      1 1 9      F e n i m o r e       
+ 
+l i n e _ I D      1 4 4 1 0 6 G r a s s l e      F r a n k      b r e w e r      h      5 2      B l e e c k e r       
+ 
+l i n e _ I D      1 4 7 4 4 1 “      E d w ’ d      b r e w e r      h      4      H i n s d a l e       
+ 
+l i n e _ I D      1 4 8 2 2 2 4 4      P e t e r      b r e w e r      h      3 7 8      P u l a s k i       
+ 
+l i n e _ I D      1 4 9 9 4 6 G u n t r u m      C a r l      b r e w e r      h      1 0 8 7      B ’ w i c k      a v       
+ 
+l i n e _ I D      1 5 1 4 2 2 4 4      J o h n      b r e w e r      b      1 1 1 7      W i l ’ b y      a v       
+ 
+l i n e _ I D      1 5 1 9 0 4 4 1      G e o      b r e w e r      h      9 2 5      D e K a i b      a v       
+ 
+l i n e _ I D      1 6 2 9 0 7 H e b r e w      B e n e v o l e n t      A s s o c i a t i o n      1 6 1      S m i t h       
+ 
+l i n e _ I D      1 6 3 7 1 9 4 4      J o s      b r e w e r      h      9 4 5      D e K a l b      a v       
+ 
+l i n e _ I D      1 6 3 8 0 2 4 4      C h a s      b r e w e r      h      A v      D      n      E      3 7 t h       
+ 
+l i n e _ I D      1 6 6 0 6 1 4 4      R i c h ’ d      b r e w e r      h      3 3 1      H a m b u r g      a v       
+ 
+l i n e _ I D      1 7 0 1 1 1 H i r s c h s o n      S i m o n      b r e w e r      h      3 0 8      B a i n b r i d g e       
+ 
+l i n e _ I D      1 7 0 1 3 7 4 4      W m      V      b r e w e r s ’      m t l s      2 0      W a t e r      M h t n       
+ 
+l i n e _ I D      1 7 4 6 1 9 4 4      M a x      b r e w e r      h      1 0 0 2      B ’ w i c k      a v       
+ 
+l i n e _ I D      1 7 6 4 9 8 4 4      F r e d ' k      b r e w e r      h      5 6      S      O x f o r d       
+ 
+l i n e _ I D      1 7 7 1 3 4 4 4      J o s      b r e w e r      B ’ w i c k      p i      c      M e s e r o l e       
+ 
+l i n e _ I D      1 7 7 1 5 5 4 4      M a x      b r e w e r      B ’ w i c k      p i      c      M e s e r o l e      h       
+ 
+l i n e _ I D      1 7 9 7 1 0 4 4      F r a n k      b r e w e r      h      1 0 3      B l e e c k e r       
+ 
+l i n e _ I D      1 8 2 3 2 9 “      B u b      b r e w e r      h      1 5 0 2      P r o s p e c t      p i       
+ 
+l i n e _ I D      1 9 1 6 8 1 K a r l      C h a s      b r e w e r      h      1 4 8      G r o v e       
+ 
+l i n e _ I D      1 9 6 4 1 5 4 4      H e b r e w      C h a r i t a b l e      B e n e v o l e n t      S o c i e t y       
+ 
+l i n e _ I D      1 9 7 9 0 3 4 4      E r h a r d t      b r e w e r      h      1 9 7      S c h o l e s       
+ 
+l i n e _ I D      2 0 3 9 8 6 4 4      J o h n      b r e w e r      h      1 7 4      H a r t       
+ 
+l i n e _ I D      2 0 5 2 1 1 “      G e o      b r e w e r      h      6 9 1      H a r t       
+ 
+l i n e _ I D      2 0 7 2 4 6 K r a r u p      N i l s      B      b r e w e r      h      2 8 2 4      F a r r a g u t      r d       
+ 
+l i n e _ I D      2 0 9 5 3 9 4 4      W m      b r e w e r      h      8 8      A b e r d e e n       
+ 
+l i n e _ I D      2 1 5 5 7 5 4 4      P a u l      s u p ’ t      B k l . v n      H e b r e w      O r p h a n      A s y -       
+ 
+l i n e _ I D      2 2 1 4 7 0 H ’ y      L      b r e w e r      6 7      B r e m e n      h      1 2      E      9 2 d       
+ 
+l i n e _ I D      2 2 1 5 9 8 “      S a m i      b r e w e r      3 6      F o r r e s t      h      4 0      E      7 2 d       
+ 
+l i n e _ I D      2 2 8 4 4 1 4 4      P e t e r      b r e w e r      h      4 8      N o l l       
+ 
+l i n e _ I D      2 2 9 0 5 0 L u s i n g      F r e d      b r e w e r      h      5 4 2      S t      M a r k ’ s      a v       
+ 
+l i n e _ I D      2 3 3 4 2 6 4 4      T i m o t h y      b r e w e r      h      1 5 4      T a y l o r       
+ 
+l i n e _ I D      2 3 4 0 8 2 M a l c o m      G e o      b r e w e r      h      2 2 1      F r a n k l i n      a v       
+ 
+l i n e _ I D      2 5 2 8 2 5 M e h l e r      F l o r i a n      b r e w e r      h      1 6 6      K n i c k ’ r      a v       
+ 
+l i n e _ I D      2 5 3 4 4 3 M e i s l e r      J o h n      b r e w e r      h      1 9 2      K n i c k ’ r      a v       
+ 
+l i n e _ I D      2 5 3 5 6 4 M e n d e l s o n      A b r a h a m      a g t i      h      7 7 3      E a s t      p ’ k w a y      M e n k      J o h n      b r e w e r      h      2 8 1      S t a g g       
+ 
+l i n e _ I D      2 5 5 5 2 2 4 4      P h i l i p      b r e w e r      h      1 2 7 7      D e c a t u r       
+ 
+l i n e _ I D      2 5 7 4 4 1 “      J o h n      b r e w e r      4 t h      c      B o n d      h      2 5      1 s t      p i       
+ 
+l i n e _ I D      2 5 7 4 5 5 4 4      L e o n a r d      b r e w e r      4 t h      c      B o n d      h      2 4 8       
+ 
+l i n e _ I D      2 5 8 2 9 6 “      C h a s      b r e w e r      h      1 1 1 6      H a n c o c k       
+ 
+l i n e _ I D      2 5 9 4 8 0 “      J o h n      b r e w e r      h      8 8 4      F r a n k l i n      a v       
+ 
+l i n e _ I D      2 6 6 2 9 5 4 4      C o r n e l i u s      b r e w e r      h      2 9 6      D e a n       
+ 
+l i n e _ I D      2 6 6 3 4 8 4 4      G a r r i s o n      b r e w e r      h      D e l a m e r e      p i      n       
+ 
+l i n e _ I D      2 6 7 5 3 1 *      G e o      b r e w e r      l i      8 8 4      F r a n k l i n      a v       
+ 
+l i n e _ I D      2 6 7 5 3 6 4 4      J o h n      M      b r e w e r      R i d g e w o o d      h      1 5 8      R o s s       
+ 
+l i n e _ I D      2 7 0 1 8 3 “      F e r d i n a n d      b r e w e r y      2 8 3      V e r n o n      a v       
+ 
+l i n e _ I D      2 7 0 2 7 0 M u n k e l      E d w ’ d      b r e w e r      h      2 0 6 A      M o f f a t       
+ 
+l i n e _ I D      2 7 0 2 7 2 4 4      L u d w i g      b r e w e r      h      3 6      W y c k o f f      a v       
+ 
+l i n e _ I D      2 7 5 9 9 0 “      J o s      b r e w e r      h      2 7 8      H a r m a n       
+ 
+l i n e _ I D      2 7 8 5 1 1 N i c k l a u s      J o h n      b r e w e r      h      3 9 8      M a r c y      a v       
+ 
+l i n e _ I D      2 8 1 3 0 2 “      N      &      C o      d i s t i l l e r s      4 4 3      K n i c k ’ r      a v       
+ 
+l i n e _ I D      2 8 1 9 3 3 4 4      E r n e s t      b r e w e r      6 7      B r e m e n      h      6 1      E      8 0 t h       
+ 
+l i n e _ I D      2 8 1 9 3 8 4 4      &      L i e b m a n n      b r e w e r s      6 7      B r e m e n       
+ 
+l i n e _ I D      2 8 2 2 3 2 4 4      J o h n      b r e w e r      h      7 8 2      B e r g e n       
+ 
+l i n e _ I D      2 8 2 5 5 9 4 4      C h a s      b r e w e r      1 9 3      B ’ w i c k      a v      h      7 6 1       
+ 
+l i n e _ I D      2 8 2 5 6 5 4 4      E r n e s t      b r e w e r      B ’ w i c k      a v      c      S e h o l e s       
+ 
+l i n e _ I D      2 8 2 5 7 0 4 4      J a c o b      b r e w e r      h      2 3 7      S      4      t h       
+ 
+l i n e _ I D      2 8 2 5 9 7 O ' C o n n e l l      A n t h o n y      b r e w e r      h      4 8 3      S t      M a r k ’ s       
+ 
+l i n e _ I D      2 8 3 8 4 1 4 4      L a w r e n c e      b r e w e r      h      2 7 2      S t a g g       
+ 
+l i n e _ I D      2 8 7 9 9 1 4 4      C h r i s t i a n      b r e w e r      h      9 0 4      B e r g e n       
+ 
+l i n e _ I D      2 8 8 4 6 0 4 4      J u l i u s      b r e w e r      h      2 4 4      S t a g g       
+ 
+l i n e _ I D      2 8 8 5 3 2 L o u i s      b r e w e r      h      4 3 9      H a r m a n       
+ 
+l i n e _ I D      2 9 4 6 2 1 4 4      P e t e r      J      b r e w e r      h      8 5      S t a n h o p e       
+ 
+l i n e _ I D      2 9 7 0 4 8 4 4      C h r i s ’      r      b r e w e r      h      3 3 0      S t o c k t o n       
+ 
+l i n e _ I D      2 9 8 4 8 4 4 4      G o t t f r i e d      b r e w e r      3 1 5      L i b e r t y      a v      h      1 4 8       
+ 
+l i n e _ I D      2 9 8 4 8 6 “      B r o s      b r e w e r s      3 1 5      L i b e r t y      a v       
+ 
+l i n e _ I D      3 0 4 6 5 5 “      L o u i s      b r e w e r      h      1 0 8      M e l r o s e       
+ 
+l i n e _ I D      3 0 4 7 4 4 P r o s e h e l      W m      b r e w e r      h      1 2 7 0      G r e e n e      a v       
+ 
+l i n e _ I D      3 0 5 2 8 0 P u l l i n g e r      P e t e r      b r e w e r      h      1 4 3      H a r m a n       
+ 
+l i n e _ I D      3 1 3 0 7 9 4 4      H e r m a n      d i s t i l l e r      1 7 7      S t a g g      h      6 8 0       
+ 
+l i n e _ I D      3 1 3 0 8 3 “      I I      &      H      d i s t i l l e r s      1 7 7      S t a g g       
+ 
+l i n e _ I D      3 1 3 1 3 0 4 4      L e o n      b r e w e r      h      1 1 2 6      W i l ’ b y      a v       
+ 
+l i n e _ I D      3 1 3 2 0 4 R e i n m u t h      C h a s      b r e w e r      h      7 3      B l e e c k e r       
+ 
+l i n e _ I D      3 2 0 3 9 9 R o e c k e l      C h a s      F      b r e w e r      h      1 1 1 2      P a c i f i c       
+ 
+l i n e _ I D      3 2 4 9 5 3 4 4      H ’ y      b r e w e r      M y r t l e      a v      c      W y c h o f f      a v      h       
+ 
+l i n e _ I D      3 2 7 0 7 8 “      V a l e n t i n e      b r e w e r      h      9 4 7      D e K a l b      a v       
+ 
+l i n e _ I D      3 2 7 0 9 3 R u g a m e r      S e b a s t i a n      d i s t i l l e r      h      1 5 7      2 3 d       
+ 
+l i n e _ I D      3 2 8 4 8 9 R u t h m a n u      E m i l      b r e w e r      h      1 6 7      G r o v e       
+ 
+l i n e _ I D      3 3 0 0 0 5 S a c k      C h a s      b r e w e r      h      1 1 8      D r e s d e n       
+ 
+l i n e _ I D      3 3 0 9 2 3 “      J a c o b      b r e w e r      h      2 3 0      P a      a v       
+ 
+l i n e _ I D      3 3 3 5 1 3 4 4      S e b a s t i a n      b r e w e r      h      5 4      N o l l       
+ 
+l i n e _ I D      3 3 3 9 9 4 S c h a r m a n n      A u g u s t      C      b r e w e r      3 7 1      P u l a s k i      h       
+ 
+l i n e _ I D      3 3 4 0 0 0 4 4      H e r m a n      B      b r e w e r      3 7 1      P u l a s k i      h      1 7 0       
+ 
+l i n e _ I D      3 3 4 0 0 3 4 4      H e r m a n      F      b r e w e r      3 7 1      P u l a s k i      h      8 3 4       
+ 
+l i n e _ I D      3 3 4 0 0 6 4 4      H .      B      &      S o n s      b r e w e r s      3 7 1      P u l a s k i       
+ 
+l i n e _ I D      3 3 4 0 0 7 4 4      J u l i u s      b r e w e r      3 7 1      P u l a s k i      h      1 0 1      L e w i s       
+ 
+l i n e _ I D      3 3 4 8 8 2 S c h e r d e r      J o h n      b r e w e r      h      1 3 2      G e o r g e       
+ 
+l i n e _ I D      3 3 7 0 2 9 4 4      F r e d ’ k      G      b r e w e r      h      4 0 7      E v e r g r e e n      a v       
+ 
+l i n e _ I D      3 3 7 1 7 9 4 4      O t t o      b r e w e r      h      3 9 1      P u l a s k i       
+ 
+l i n e _ I D      3 3 7 3 9 1 “      T h o s      b r e w e r      h      4 0 7      E v e r g r e e n      a v       
+ 
+l i n e _ I D      3 3 9 2 0 2 S c h o e n d o r f      J o h n      b r e w e r      h      1 4 7      L i n d e n       
+ 
+l i n e _ I D      3 3 9 3 0 4 4 4      E m i l      b r e w e r s ’      s u p p l i e s      1 8      W a t e r      M h t n       
+ 
+l i n e _ I D      3 3 9 9 4 5 4 4      W m      b r e w e r      h      8 8 2      F r a n k l i n      a v       
+ 
+l i n e _ I D      3 4 0 6 9 0 “      L o r e n z      b r e w e r      h      1 0 4 4      D e c a t u r       
+ 
+l i n e _ I D      3 4 0 7 8 8 S c h u l l e r      C h a s      b r e w e r      h      5 4      N o l l       
+ 
+l i n e _ I D      3 4 0 7 9 1 S c h u l l e r m a n      A u g u s t      b r e w e r      h      1 4 6      G r o v e       
+ 
+l i n e _ I D      3 4 2 1 6 8 P h i l i p      b r e w e r      h      1 8 3      G r o v e       
+ 
+l i n e _ I D      3 4 2 8 8 6 4 4      L o u i s      b r e w e r      h      1 3 9      E v e r g r e e n      a v       
+ 
+l i n e _ I D      3 4 3 3 8 1 S c l e p p      W m      b r e w e r      h      2 7 0      C a r r o l l       
+ 
+l i n e _ I D      3 4 6 0 0 8 “      M i e h ’ l      b r e w e r      2 5 6      M a u j e r      h      2 8 0       
+ 
+l i n e _ I D      3 4 6 0 1 6 S e i t z ’ s      N      S o n      b r e w e r      2 5 6      M a n j e r       
+ 
+l i n e _ I D      3 4 6 3 1 1 4 4      L o r e n e      b r e w e r      h      2 0 0      P a      a v       
+ 
+l i n e _ I D      3 4 7 6 2 3 “      P e t e r      b r e w e r      h      2 0 7      T e n      E y c k       
+ 
+l i n e _ I D      3 6 1 3 2 0 S o e h n g e n      W m      b r e w e r      h      2 2 8      G r o v e       
+ 
+l i n e _ I D      3 6 4 4 0 2 S p r i n g m a n n      R o b ’ t      b r e w e r      h      3 5 8      R a l p h       
+ 
+l i n e _ I D      3 6 7 6 9 4 4 4      J o s      b r e w e r      h      E      9 6 t h      n      F a r r a g u t      r d       
+ 
+l i n e _ I D      3 7 1 2 1 2 S t o p p e n b a c h      N i c h o l a s      b r e w e r      k      2 7 5      N      J      a v       
+ 
+l i n e _ I D      3 7 1 9 9 1 S t r a u b s      N i c h o l a s      b r e w e r      h      4 6 4      S t      M a r k ’ s      a v       
+ 
+l i n e _ I D      3 7 2 2 5 8 “      M i l f o r d      B      b r e w e r      2 4 1      W y t h e      a v      h      1 1 3       
+ 
+l i n e _ I D      3 7 2 2 6 3 “      &      D e n i s o n      b r e w e r s      2 4 1      W y t h e      a v       
+ 
+l i n e _ I D      3 7 2 2 7 7 S t r e i b e l      J o h n      b r e w e r      h      3 8 0      P u l a s k i       
+ 
+l i n e _ I D      3 7 3 7 0 0 S t u l e m a n n      J a c o b      b r e w e r      9 2      E v e r g r e e n      a v       
+ 
+l i n e _ I D      3 7 5 3 4 0 “      W i n      b r e w e r      h      5 7 3      B a l t i c       
+ 
+l i n e _ I D      3 7 9 0 1 4 4 4      W m      b r e w e r      5 7      C h r y s t i e      M h t n      h       
+ 
+l i n e _ I D      3 8 0 1 1 5 T e y h      C h a s      b r e w ' m a s t e r      h      1 5 9 2      B ’ w i c k      a v       
+ 
+l i n e _ I D      3 8 7 5 3 0 T r o e m e l      R i c h ’ d      b r e w e r      h      3 2      E      2 d       
+ 
+l i n e _ I D      3 8 7 5 5 6 “      G e o      F      b r e w e r      B ’ w i c k      a v      c      C o n w a y      b       
+ 
+l i n e _ I D      3 9 1 0 5 8 U r f f      C h a s      P a u l      b r e w e r      2 3 9      M e s e r o l e      h      2 6       
+ 
+l i n e _ I D      3 9 7 9 3 1 4 4      M o s e s      b r e w e r      h      9 6 0 1      3 d      a v       
+ 
+l i n e _ I D      3 9 8 2 9 9 4 4      J o h n      b r e w e r      h      7 5 0      B e d f o r d      a v       
+ 
+l i n e _ I D      4 0 4 6 7 5 4 4      C a n s t a n c e      b r e w e r      k      3 7 4      S t a g g       
+ 
+l i n e _ I D      4 0 6 1 4 3 4 4      G o t t l i e b      b r e w e r      h      2 9 9      P a l m e t t o       
+ 
+l i n e _ I D      4 0 6 1 5 0 4 4      P a u l      b r e w e r      N      1 s t      c      B e r r y      h      R o c k -       
+ 
+l i n e _ I D      4 0 6 7 1 2 W e l m e r t      N i c h o l a s      b r e w e r      h      9 2      E v e r g r e e n      a y       
+ 
+l i n e _ I D      4 0 7 9 2 9 4 4      L o u i s      b r e w e r      h      2 8 7      W o o d b i n e       
+ 
+l i n e _ I D      4 0 8 8 0 2 “      J o h n      b r e w e r      1 5 6 2      M y r t l e      a v      h      7 4      C o r -       
+ 
+l i n e _ I D      4 0 8 8 0 6 “      &      Z e r w e c k      b r e w e r s      1 5 6 2      M y r t l e      a y       
+ 
+l i n e _ I D      4 0 8 9 9 8 W e n s l e r      R u d o l f      b r e w e r      h      1 4      O l i v e      p i       
+ 
+l i n e _ I D      4 1 3 2 7 1 W i c h t      C o n r a d      b r e w e r      h      1 9 5      R a l p h       
+ 
+l i n e _ I D      4 1 3 9 5 3 “      A l b e n      b r e w e r      h      3 7 2      H i m r o d       
+ 
+l i n e _ I D      4 1 4 4 9 3 4 4      P e t e r      b r e w e r      h      1 2 4 8      D e K a l b      a v       
+ 
+l i n e _ I D      4 1 7 4 3 2 4 4      J o h n      T      b r e w e r      B ’ w i c k      a v      c      S c h o l e s       
+ 
+l i n e _ I D      4 2 0 4 7 9 W i s h e r t      H ’ y      b r e w e r      h      1 1 1 4      W i l ’ b y      a v       
+ 
+l i n e _ I D      4 2 1 6 0 7 4 4      F r e d ’ k      b r e w e r      h      3 0 9      P a l m e t t o       
+ 
+l i n e _ I D      4 2 4 1 6 4 “      G e o      H      b r e w e r      h      6 8 5      E      2 9 t h       
+ 
+l i n e _ I D      4 2 5 1 1 4 W u n n      F r a n k      X      b r e w e r      h      9 4 9      F r a n k l i n      a v       
+ 
+l i n e _ I D      4 2 7 8 7 4 “      G u s t a v      b r e w e r      h      1 2 1      N o l l       
+ 
+l i n e _ I D      4 2 8 1 0 1 Z e r w e c k      C h a s      C      D      b r e w e r      M y r t l e      a v      c       
+ 
+l i n e _ I D      4 2 9 0 5 7 4 4      E r n e s t      b r e w e r s ’      m t l s      1 1 4      2 d      a v      h       
+ 
+l i n e _ I D      4 2 9 0 6 1 “      H a n s      E      b r e w e r s ’      s u p p l i e s      4 0      W a t e r       
+ 
