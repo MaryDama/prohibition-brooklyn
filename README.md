@@ -11,7 +11,7 @@ Kings County Distillery. Retrieved March 25, 2019, from http://kingscountydistil
 
 Digitized Brooklyn City Directories. Retrieved March 25, 2019, from https://archive.org/details/brooklynpubliclibrary  
 
-Visualize your data on a custom map using Google My Maps. Retrieved March 25, 2019, from https://www.google.com/earth/outreach/learn/visualize-your-data-on-a-custom-map-using-google-my-maps/
+Google My Maps. Retrieved March 25, 2019, from https://www.google.com/maps/d/
 
  
 
