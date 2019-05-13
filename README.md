@@ -4,7 +4,7 @@ King’s County Distillery, established in 2010, claims to be the “oldest whis
 As our primary data source in this investigation, we used digitized Brooklyn city and business directories available on Internet Archive. By using python to read our three chosen directories (listed and linked below), parse them, and write the relevant lines to CSV, then importing said CSV into Google My Maps, we mapped the distilleries and breweries in Brooklyn, showing where the areas of production were prior to prohibition. 
 
 Instructions for running script:
-The script available in ProhibitionRegex.py takes in the text file of a directory and outputs a CSV. The code is commented to explain this process.
+- The script available in ProhibitionRegex.py takes in the text file of a directory and outputs a CSV. The code is commented to explain this process.
 - Each directory is available in this repository as a txt file, and the code should be modified on line 19 to reflect which txt file you want to read. 
 - Line 16 should then be modified to reflect what you'd like the resultant CSV to be called. 
 - For reference, the CSVs that we produced with this code are also available in this repository. Please note that they have been manually cleaned to control for mistakes in the OCR of the original documents. 
